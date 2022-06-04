@@ -3,20 +3,20 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	zenz: 'https://zenzapi.xyz',
+	zenz: '',
 }
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'': 'Your Key',
 }
 
 // Other
 global.owner = ['6281322667077']
 global.premium = ['0']
-global.ownername = 'Romli Suhanda'
-global.botname = 'ZxyuuBOTZ-MD'
-global.packname = '© ZxyuuBOTZ - MULTI DEVICE'
+global.ownername = 'Hendraa'
+global.botname = 'Hendra-MD'
+global.packname = '© HENDRA-BOTZ - MULTI DEVICE'
 global.gc = ''
 global.limitawal = '100'
 global.author = ''
